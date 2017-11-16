@@ -1,0 +1,64 @@
+body {
+    background-color: #009FFD;
+}
+
+article {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+p {
+    font-family: Concert One;
+}
+
+ul {
+    font-family: Concert One;
+}
+
+#Title {
+    font-size: 75px;
+    font-family: Audiowide;
+}
+
+h2 {
+    font-family: Boogaloo;
+    font-size: 30px;
+    text-align: center;
+}
+
+#HeaderLinkBar {
+    padding: 10px;
+    background-color: rgba(198, 228, 247, 0.5);
+}
+
+.LinkBar {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+header {
+    margin: -5px -5px 0px -5px;
+    text-align: center;
+	background: url("#");
+    background-size: cover;
+    background-position: center;
+    padding: 20px 0px 0px 0px;
+    color: #BF4E30;
+}
+
+h1 {
+    font-family: Audiowide;
+    font-size: 45px;
+    text-align: center;
+}
+
+#HeaderPicture {
+    margin: 40px 0px 0px 0px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #FFA400;
+}
+
+.HeaderLinks {
+    color: #BF4E30;
+}
