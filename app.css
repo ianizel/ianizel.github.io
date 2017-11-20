@@ -7,6 +7,10 @@ article {
 	max-width: 700px;
 }
 
+img {
+	border: 5px solid #FFA400;
+}
+
 p {
 	font-family: Kalam, cursive;
 }
