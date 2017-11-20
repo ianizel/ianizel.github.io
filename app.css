@@ -9,10 +9,14 @@ article {
 
 img {
 	border: 5px solid #FFA400;
+	border-radius: 20px;
+	display: block;
+	margin: 0 auto;
+	
 }
 
 p {
-	font-family: Kalam, cursive;
+	font-family: "Kalam", cursive;
 }
 
 ul {
