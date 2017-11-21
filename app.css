@@ -14,6 +14,10 @@ img {
 	margin: 0 auto;
 }
 
+.creditBadge {
+	float: center;
+}
+
 p {
 	font-family: Kalam, cursive;
 }
