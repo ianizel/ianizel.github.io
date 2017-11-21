@@ -42,9 +42,6 @@ table {
 	background-color: rgba(198, 228, 247, 0.5);
 }
 
-.LinkBar {
-	display: inline;
-	padding: 0px 10px 0px 10px;
 }
 
 header {
@@ -71,5 +68,6 @@ h1 {
 }
 
 .HeaderLinks {
-	color: #BF4E30;
+	display: inline;
+	padding: 0px 10px 0px 10px;
 }
