@@ -15,7 +15,7 @@ img {
 }
 
 p {
-	font-family: "Kalam", cursive;
+	font-family: Kalam, cursive;
 }
 
 ul {
@@ -31,6 +31,10 @@ h2 {
 	font-family: Audiowide, cursive;
 	font-size: 30px;
 	text-align: center;
+}
+
+table {
+	font-family: Kalam, cursive;
 }
 
 #HeaderLinkBar {
