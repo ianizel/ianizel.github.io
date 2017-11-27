@@ -8,10 +8,20 @@ article {
 }
 
 img {
-	border: 5px solid #BF4E30;
+	border: 5px solid #CE8A30;
 	border-radius: 20px;
 	display: block;
 	margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-style: italic;
 }
 
 .creditBadge {
@@ -43,7 +53,7 @@ table {
 
 #LinkBar {
 	padding: 10px;
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(7, 67, 143, 0.5);
 }
 
 header {
@@ -53,7 +63,7 @@ header {
 	background-size: cover;
 	background-position: center;
 	padding: 20px 0px 0px 0px;
-	color: #BF4E30;
+	color: #CE8A30;
 }
 
 h1 {
@@ -62,19 +72,12 @@ h1 {
 	text-align: center;
 }
 
-#HeaderPicture {
-	margin: 40px 0px 0px 0px;
-	border-style: solid;
-	border-width: 5px;
-	border-color: #FFA400;
-}
-
 .HeaderLinks {
 	display: inline;
 	padding: 0px 10px 0px 10px;
-	color: #BF4E30;
+	color: #CE8A30;
 }
 
 .Link {
-	color: #BF4E30;
+	color: #CE8A30;
 }
