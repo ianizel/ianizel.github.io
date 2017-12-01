@@ -52,6 +52,7 @@ table {
 }
 
 #LinkBar {
+	margin-bottom: 0px;
 	padding: 10px;
 	background-color: rgba(7, 67, 143, 0.5);
 }
@@ -63,6 +64,10 @@ header {
 	background-size: cover;
 	background-position: center;
 	padding: 20px 0px 0px 0px;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	left: 0px;
 	color: #CE8A30;
 }
 
@@ -80,4 +85,8 @@ h1 {
 
 .Link {
 	color: #CE8A30;
+}
+
+#pageTitle {
+	margin-top: 300px;
 }
